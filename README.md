@@ -15,3 +15,10 @@ while(count<0)
 count++;
 }
 ```
+Для загрузки изменений с GitHub используется команда `git pull`
+```C#
+while(count<0)
+{
+count++;
+}
+```
